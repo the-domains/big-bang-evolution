@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Chapter 23
-datePublished: '2016-02-03T19:22:51.822Z'
-dateModified: '2016-02-03T19:22:37.294Z'
+datePublished: '2016-02-03T19:25:54.141Z'
+dateModified: '2016-02-03T19:25:51.823Z'
 title: Spirit and heredity
 author: []
+sourcePath: _posts/2016-02-03-spirit-and-heredity.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-03-spirit-and-heredity.md
-published: true
-url: spirit-and-heredity/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## Spirit and heredity
