@@ -2,12 +2,13 @@ name: Big bang evolution
 favicon: null
 layout_spectrum: 0.5584776357281953
 typography_spectrum: 0.9961959789507091
+title: Big Bang Evolution
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-41248496-2
   facebook: null
   twitter: null
 opengraph:
