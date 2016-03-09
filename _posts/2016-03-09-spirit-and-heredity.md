@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "There are countries where you have to \ndeal very careful about these issues.These issues delivers sharp \ndiscussions with different religious groups.Evolution by the Spirit is \nbased on a universal spiritual starting point of view.\_"
-datePublished: '2016-03-09T08:36:55.434Z'
-dateModified: '2016-03-09T08:33:29.836Z'
+datePublished: '2016-03-09T08:44:52.031Z'
+dateModified: '2016-03-09T08:42:57.798Z'
 title: Spirit and heredity
 author: []
+sourcePath: _posts/2016-03-09-spirit-and-heredity.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-spirit-and-heredity.md
-published: true
 url: spirit-and-heredity/index.html
 _type: Article
 
