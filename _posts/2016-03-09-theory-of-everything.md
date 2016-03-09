@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'From Wikipedia, the free encyclopedia'
-datePublished: '2016-03-09T08:37:21.692Z'
-dateModified: '2016-03-09T08:30:15.265Z'
+datePublished: '2016-03-09T08:45:11.517Z'
+dateModified: '2016-03-09T08:43:36.319Z'
 title: Theory of everything
 author: []
+sourcePath: _posts/2016-03-09-theory-of-everything.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-theory-of-everything.md
-published: true
 url: theory-of-everything/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Theory of everything
