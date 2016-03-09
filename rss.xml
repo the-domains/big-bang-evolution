@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Big Bang Evolution]]></title>
+        <description><![CDATA[Big Bang Evolution]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 08:16:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is my idea]]></title>
+            <description><![CDATA[<article><h1>This is my idea</h1><p></p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/384a83cb84e9cdda3971292704f80d5f/croprotate.jpg?cropheight=330&cropwidth=630&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F939bb283-3858-4d1d-8ec4-2da425c0c44d.jpg&x=0&y=0"></article>]]></description>
+            <link>undefinedthis-is-my-idea/index.html</link>
+            <guid isPermaLink="false">f8cb4978-304c-4ca0-a2ae-45da0b5f2479</guid>
+            <pubDate>Wed, 09 Mar 2016 08:15:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
