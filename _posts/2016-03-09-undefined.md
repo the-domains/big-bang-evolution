@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Introduction of\n the most important chapters of the book with convincing and proved \nevidence and the reinterpretation of the famous: E = m*c"
-datePublished: '2016-03-09T09:05:30.033Z'
-dateModified: '2016-03-09T09:05:11.257Z'
+datePublished: '2016-03-09T09:56:58.793Z'
+dateModified: '2016-03-09T09:56:14.804Z'
 title: Special article Bigbang
 author: []
 sourcePath: _posts/2016-03-09-undefined.md
@@ -22,35 +22,19 @@ url: undefined/index.html
 _type: WebPage
 
 ---
-Introduction of
-the most important chapters of the book with convincing and proved 
-evidence and the reinterpretation of the famous: E = m\*c
-
-The big bang is the most important idea in cosmology now a days. According to experts, nothing is known about 
-
-.
+The big bang is the most important idea in cosmology now a days. According to experts, nothing is known about  **the pre-big bang period**.
 There were no natural laws and nothing like time, light, and space had 
 yet emerged in the original singularity. A fraction after the big bang, 
 physical agents came into being, as well as the factors of time, light 
 and space in a gigantic hot energy sea. Temperatures quickly began to 
 drop. The energy sea was then able to 'freeze' or condense to form 
-matter. The above-mentioned natural laws were 
+matter. The above-mentioned natural laws were **already existent** in the original singularity, albeit unable to manifest themselves without time, light, and space.
 
-in the original singularity, albeit unable to manifest themselves without time, light, and space.
-
-The world and the universe are not created by God.The Spirit is the motor of the big bang and evolution of matter and live.
+**The world and the universe are not created by God.The Spirit is the motor of the big bang and evolution of matter and live.**
 
 This is a total new approach of 
 creation of live ,evolution and conscious,A more spiritual and meta 
-physical approach, but the theory is 
-
-based and based on empirically evidence by 
-
-about volume of dark matter and dark energy in addition to levels of hydrogen and helium. Interested? Read 
-
-and 
-
-of my book 
+physical approach, but the theory is **mathematical** based and based on empirically evidence by **cosmological measurements** about volume of dark matter and dark energy in addition to levels of hydrogen and helium. Interested? Read [Chapter 35: Fundamental numerical proportions before, during, and after the Big Bang][0] and [Chapter 36: Correlation between physical agents -- energy -- mass -- spirit of my book The world acoording to the Spirit.][1]
 
 **Original article with part of the complete evidence and distraction. **
 
@@ -74,19 +58,7 @@ the universe. There were several explosions that -- in the absence of the
 correct mix of physical agents and constants -- imploded once more, 
 richer by a learning experience.
 
-The pre-big bang situation represented a super symmetric numerical proportion of 
-
-/
-
-matter, 
-
-/
-
-spirit/memory, and 
-
-/
-
-antimatter, in which the spirit factor, as a cocoon of all matter and antimatter, kept up the equilibrium of the balance.
+* The pre-big bang situation represented a super symmetric numerical proportion of 1/3 matter, 1/3 spirit/memory, and 1/3 antimatter, in which the spirit factor, as a cocoon of all matter and antimatter, kept up the equilibrium of the balance.
 
 This is a precarious balance with an unbelievable amount of energy 
 occupying an infinitesimally small space. In this incredibly small, 
@@ -110,21 +82,7 @@ In the case of a big bang, an inconceivable amount of energy is released
 into space. If the mix of universal physical constants and physical 
 agents is not sufficiently balanced, an implosion will follow. All 
 matter, antimatter, and energy implodes again to its original 
-singularity, once more with a 
-
-super symmetry of 
-
-/
-
-matter, 
-
-/
-
-spirit, and 
-
-/
-
-antimatter.
+singularity, once more with a super symmetry of 1/3 matter, 1/3 spirit, and 1/3 antimatter.
 
 All waste products are reunited 
 again in an infinitesimally small space, in which the original symmetry 
@@ -142,11 +100,7 @@ antimatter, an incredibly large amount of matter was destroyed and
 turned into degenerated dark matter, which accounts for the lion share 
 of all matter and is part of the matter in the universe.
 
-The slight prevalence of matter over antimatter
-
-(1% of 1%
-
-)
+The slight prevalence of matter over antimatter (1% of 1%)
 is the primary component (the heavier, more complex molecules) of 
 evolution. Energy and mass distribution yields one of the bizarre 
 numerical proportions that 'evidently' entail completely illogical trash
@@ -155,11 +109,7 @@ trace. Only 1% of all matter can be verifiably analyzed. Besides, this
 one percent also consists of 24% helium, 75% hydrogen and only 1% 
 heavier, more complex molecules. 
 
-The remaining 99% are attributed to 33,33 % cosmological constant
-
-(a mysterious repulsive anti-gravity -- antimatter-oriented factor
-
-)
+The remaining 99% are attributed to 33,33 % cosmological constant (a mysterious repulsive anti-gravity -- antimatter-oriented factor)
 and 33,33% dark matter -- including 24% with non baryonic -- waste of 
 leptons, W and Z bosons, and photons (waste products of matter 
 controlled by weak nuclear energy, electromagnetic forces, and 
@@ -172,17 +122,7 @@ In my reinterpretation, Einstein's energy = mass equivalent, with the
 square speed of light as a correction factor, covers a much wider 
 spectrum **(see diagram**).
 
-In the context of super symmetry, the pre-big bang numerical proportions of 1/3 matter, 1/3 spirit, and 1/3 antimatter are reflected by the equation E = MC2; energy (100%) = mass 1/3 + C2 (2/3). The energy 3/3 is represented by the 4 known physical agents (**see diagram**). The mass 1/3 by the known mass respectively matter (visible and dark matter). C2 represents 2/3, in which 1/3 are anti-gravity  and 1/3 antimatter remnant. 
-
-The original pre-big bang cosmic ratio of 3x 
-
-/
-
-is thus reflected in the original equation E = MC
-
-(
-
-.
+In the context of super symmetry, the pre-big bang numerical proportions of 1/3 matter, 1/3 spirit, and 1/3 antimatter are reflected by the equation E = MC2; energy (100%) = mass 1/3 + C2 (2/3). The energy 3/3 is represented by the 4 known physical agents (**see diagram**). The mass 1/3 by the known mass respectively matter (visible and dark matter). C2 represents 2/3, in which 1/3 are anti-gravity  and 1/3 antimatter remnant. The original pre-big bang cosmic ratio of 3x 1/3 is thus reflected in the original equation E = MC2  (**see diagram**).
 
 The 1/3 matter is expressed in terms of particles (micro) and space (macro). The 1/3 spirit is expressed as a cocoon of all matter (micro) and as light irradiating all discernable matter (macro). The 1/3
 antimatter is expressed as a wave function (micro) and time (history, 
@@ -196,9 +136,7 @@ There is an elusive relation connecting
 quantum mechanics and relativity. Matter is frozen energy and manifests
 itself as particle in space. The spirit is a memory, heredity, and 
 consciousness carrier of visual spiritual matter on a micro level; while
-the macro level is expressed by light,
-
-which may be a particle as well as a wave, despite the fact that light has no mass.
+the macro level is expressed by light, which may be a particle as well as a wave, despite the fact that light has no mass.
 
 This is a contradiction in terms; light is a wave as well as a 
 particle and without mass, virtually and actually detectable. Thus, 
@@ -217,50 +155,26 @@ future, and no evolution.
 
 All of these original cosmic components are interrelated and 
 intertwined like a kind of Holy Trinity, which is fundamental to all 
-life in our universe. 
-
-The numerical proportions found in super symmetry and E = MC
-
-(
-
-) also pertain to time measurement (
-
-/
-
-, 
-
-/
-
-part
+life in our universe. The numerical proportions found in super symmetry and E = MC2 (**see diagram**) also pertain to time measurement (1/6, 1/12 part
 etc.) and a light speed of C2 equals approximately 3\. It is not 
 surprising, therefore, that organic conscious life forms have developed 
-here on our planet with its 24-hour days.
+here on our planet with its 24-hour days. The numeric's of our time on Earth (1/6 1/12 1/24) also pertain to the standard model of matter, with 6 types of quarks and 6 types of leptons. This is no coincidence but arises from the numerical proportions found in cosmic symmetry and E = MC2 (**see diagram**). **[A noticeable synchronicity.][2]**
 
-The numeric's of our time on Earth (
-
-/
-
-/
-
-/
-
-) also pertain to the standard model of matter, with 6 types of quarks and 6 types of leptons. 
-
-This is no coincidence but arises from the numerical proportions found in cosmic symmetry and E = MC
-
-**Part of the total evidence and distraction**
-
-:the
-numbers 1,2,3 ,4; ( Super symmetry + calculation of the current energy /
+**Part of the total evidence and distraction**: the
+numbers 1,2,3,4; (Super symmetry + calculation of the current energy /
 matter distribution in the universe by reinterpretation of E = MC2  and
 8 ; the distraction of cosmological constant and other important 
 constants of nature are only available in the bookshop.
 
 **1,2,3 and 4 + 8 are only available in the bookshop.**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c0c0cd4-c613-4cec-9ae2-80a134edd0f0.png)
 
-**picture / diagram**
+****
 
-of evidence to be found within the book ; 
+****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c3f0fda-c1bf-4ac8-afd3-82def5045c19.png)
+
+**picture / diagram** of evidence to be found within the book; **The world according to the Spirit**
 
 \* The above-mentioned calculation and the pertinent evidence are part of a book; **The world according to the spirit**, deposited with Actus notarissen and lawyers by  R. M. Bakker Waarland August 12, 2007
 
@@ -268,23 +182,11 @@ of evidence to be found within the book ;
 
 **Correlation between physical agents -- energy -- mass -- spirit**
 
-The E = MC
-
-equation is also reflected by the energy/force distribution
-
-. Gravity (
-
-/
-
-of the energy) externally influences matter through gravitons (mass 
+The E = MC2 equation is also reflected by the energy/force distribution. Gravity (1/3 of the energy) externally influences matter through gravitons (mass 
 less), which is expressed as space. Gravity is the macro designer of the
 universe and emerged as the first physical agent after the big bang. 
 Gravity influences the positive charge of matter. The strong nuclear 
-energy (
-
-/
-
-of the energy) affects the atomic 
+energy (1/6 of the energy) affects the atomic 
 nuclei and the heavier elementary baryonic particles. This energy has a 
 considerable power across very small distances.
 
@@ -297,14 +199,10 @@ anti-gravity and the spirit/cocoon buffer create stable atomic nuclei
 with a strong bond. The force-carrying gluons are mass less and manifest
 themselves as waves.
 
-The baryonic elementary particles have a relatively large amount of mass/energy. 
-
-The
+The baryonic elementary particles have a relatively large amount of mass/energy. The
 numbers and proportions of 6 particles -- 6 antiparticles reflect the 
 exact same numerical proportions as our time measurement in hours and 
-days. 
-
-.
+days. **A noticeable synchronicity**.
 
 The weak nuclear energy also has a background in the antimatter part (1/6 share
 of the energy). It is an exception in the context of the four physical 
@@ -327,63 +225,25 @@ The weak nuclear energy is an exception due to the disruption of the
 symmetry and multiple-force expression (inside/outside the atomic 
 nucleus) and, as such, a catalyst for the big bang.
 
-The big bang started by quantum fluctuation in 
-
-super symmetry (
-
-/
-
-/
-
-/
-
-)
-
-so that the fixed stable numerical proportion of 
-
-/
-
-/
-
-/
-
-became
+The big bang started by quantum fluctuation in super symmetry (1/3 1/3 1/3) so that the fixed stable numerical proportion of 1/3 1/3 1/3 became
 unbalanced and exploded. During previous big bangs, the mass and the 
 stored energy had once more imploded because the cosmic constants were 
 not yet sufficiently fine-tuned and balanced to prevent implosion and to
 restore super symmetry.
 
-During the last big bang, however, 
-
-the universal physical constants were fine-tuned and sufficiently balanced
-
-;
+During the last big bang, however, the universal physical constants were fine-tuned and sufficiently balanced;
 and the weak nuclear energy -- due to symmetry disruption -- was too 
 strong a catalyst to cause the big bang to implode once more to restore 
 super symmetry. The spirit factor as a cocoon of super symmetry; and all
 matter and antimatter is totally enveloped by it.
 
-Both an internal and an external cocoon.
-
-The spirit factor is a consciousness carrier (identity carrier)
-
-and acts as a trigger to cause a big bang by matter-antimatter quantum 
+Both an internal and an external cocoon. The spirit factor is a consciousness carrier (identity carrier) and acts as a trigger to cause a big bang by matter-antimatter quantum 
 fluctuation. The spirit factor is an evolution / growth consciousness 
 containing in itself a progressive force, besides the harmony of super 
-symmetry (
-
-/
-
-/
-
-/
-
-).
+symmetry (1/3 1/3 1/3).
 In the context of this dilemma, various big bangs followed upon each 
 other and imploded up until the last one, 14 million years ago, when it 
-turned out that
-
-all natural constants were
+turned out that all natural constants were
 just sufficiently fine-tuned to prevent implosion and to evolve and 
 give rise to a universe with wonderful nature, but also with a bizarre 
 macro matter distribution (visible/dark matter).
@@ -404,20 +264,10 @@ electromagnetic force is carried by almost mass less electrons that --
 through photons -- allow (real) virtual interaction/communication with 
 external molecules.
 
-**On a micro/quantum level**, 
-
-light acts as a virtual bridge between the wave-particle duality; while
-
-; 
-
-light
+**On a micro/quantum level**,light acts as a virtual bridge between the wave-particle duality; while; on a 'macro' level; light
 bridges the gap between time and space. On a micro scale, the 
 wave-particle duality plays the same role that the time-space continuum 
-plays on a macro level
-
-. The light both particle and wave, mass as mass less, real as virtual is the intermediary in
-
-the framework of quantum wave-particle duality and the time-space continuum. 
+plays on a macro level. The light both particle and wave, mass as mass less, real as virtual is the intermediary in the framework of quantum wave-particle duality and the time-space continuum. 
 
 In which context antimatter -- the carrier of weak and strong nuclear 
 energy -- is expressed as a wave and the wave is expressed as time. The 
@@ -430,15 +280,7 @@ This can bridge the gap between
 wave and particle duality. On a 'real' level, electromagnetic light acts
 as a bridge between time-space in the four dimensions of the universe.
 
-The spirit factor in super symmetry equals 
-
-/
-
-and this numerical proportion is also reflected by the energy/force distribution of 
-
-/
-
-of a total of four physical agents.
+The spirit factor in super symmetry equals 1/3 and this numerical proportion is also reflected by the energy/force distribution of 1/3 of a total of four physical agents.
 
 **Chapter 37**
 
@@ -458,11 +300,7 @@ leptons and levorotatory quarks. The dextrorotatory leptons and quarks
 are not exposed to any weak nuclear energy. The spin direction 
 determines the force distribution in the atomic nuclei. The fact that 
 dextrorotatory leptons and quarks do not experience any weak nuclear 
-energy is
-
-a violation of P and T symmetry
-
-.
+energy is a violation of P and T symmetry.
 
 The remaining electromagnetic force 1/3 -1/6 non-baryonic
 dark matter (16.00%). Together this affords 24 % + 1 % visible matter 
@@ -476,22 +314,16 @@ matter.
 
 The centre of gravity in the macro proportions of matter -- energy -- 
 antimatter is at C2 (dark anti-gravity energy and remnants of antimatter
-(66.66%) and the large amount of dark matter under M (32.33%). 
-
-Together, they account for 99% of the entire universe.
+(66.66%) and the large amount of dark matter under M (32.33%). Together, they account for 99% of the entire universe.
 
 There was an evidently bizarre and demented waste of energy and matter during the big bang.
 
 **The micro mass proportions on an atomic level** (1% of
 the entire energy and matter) show the same evidently bizarre mass 
-differences on an elementary quarks and leptons level. The 1/12 and1/6 
-
-numerical
+differences on an elementary quarks and leptons level. The 1/12 and 1/6 numerical
 proportions are reflected in the numbers of leptons and quarks (6-6 of 
 12-12, particle -- antiparticle) and in the time system of hours, 
-quarters,
-
-etc.
+quarters,etc.
 
 The pairs of quarks -- up -- down, charm -- strange, top -- bottom -- 
 reveal disproportionately large mass differences; which is also true of 
@@ -508,3 +340,7 @@ Considering pre-big bang proportions (3x
 /
 
 ) and E = MC2, however, they may be converted to understandable units, despite the bizarre numeric's.
+
+[0]: http://bigbangevolution.com/book/chapter-35
+[1]: http://bigbangevolution.com/book/chapter-36
+[2]: http://searchingforanswersaboutbigbang.com/cern/ "CERN; The world at large and small are curious  related with each other"
