@@ -4,8 +4,15 @@
         <description><![CDATA[Big Bang Evolution]]></description>
         <link>https://thegrid.ai/big-bang-evolution/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 10:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 10:15:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/big-bang-evolution/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is my idea]]></title>
+            <description><![CDATA[<article><h1>This is my idea</h1><p></p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/384a83cb84e9cdda3971292704f80d5f/croprotate.jpg?cropheight=330&cropwidth=630&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F939bb283-3858-4d1d-8ec4-2da425c0c44d.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/big-bang-evolution/this-is-my-idea/index.html</link>
+            <guid isPermaLink="false">f8cb4978-304c-4ca0-a2ae-45da0b5f2479</guid>
+            <pubDate>Wed, 09 Mar 2016 10:13:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Evolution by selection, intelligent design and creation are delicate subjects.]]></title>
             <description><![CDATA[<article><h1>Evolution by selection, intelligent design and creation are delicate subjects.</h1><p>There are countries where you have to 
@@ -22,13 +29,6 @@ based on a universal spiritual starting point of view. The trinity matter – sp
             <link>https://thegrid.ai/big-bang-evolution/preface-new-book-the-world-according-to-the-spirit/index.html</link>
             <guid isPermaLink="false">b622c641-2a4f-4b08-a49e-ea7d324e5538</guid>
             <pubDate>Wed, 09 Mar 2016 09:32:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is my idea]]></title>
-            <description><![CDATA[<article><h1>This is my idea</h1><p></p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/384a83cb84e9cdda3971292704f80d5f/croprotate.jpg?cropheight=330&cropwidth=630&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F939bb283-3858-4d1d-8ec4-2da425c0c44d.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/big-bang-evolution/this-is-my-idea/index.html</link>
-            <guid isPermaLink="false">f8cb4978-304c-4ca0-a2ae-45da0b5f2479</guid>
-            <pubDate>Wed, 09 Mar 2016 08:15:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
