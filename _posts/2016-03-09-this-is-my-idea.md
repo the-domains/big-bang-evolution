@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'The period before, during and after the Big Bang. There was evolution even before the Big Bang by the Spirit.The Spirit is a cocoon to organize matter versus anti-matter and the Big Bang. The Spirit is the leading motor for evolution of nature constants, values of nature laws plus evolution of matter, live and spiritual conscious. A total new concept for (meta) physics.'
-datePublished: '2016-03-09T08:15:35.492Z'
-dateModified: '2016-03-09T08:15:25.073Z'
+datePublished: '2016-03-09T10:13:20.115Z'
+dateModified: '2016-03-09T10:12:44.178Z'
 title: This is my idea
 author: []
+sourcePath: _posts/2016-03-09-this-is-my-idea.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-this-is-my-idea.md
-published: true
 url: this-is-my-idea/index.html
 _type: Article
 
