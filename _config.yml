@@ -1,6 +1,6 @@
 name: Big Bang Evolution
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.74485
 typography_spectrum: 0.1538
 title: Big Bang Evolution
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ad432d'
     - '#747474'
     - '#a7a7a7'
-  brandStrength: 0.4375
-  lightness: 0.331986581441015
-  saturation: 0.625
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 0.5625
   rhythmicContrast: 0.75
 purpose: []
