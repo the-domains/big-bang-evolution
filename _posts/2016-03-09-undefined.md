@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: "Introduction of\n the most important chapters of the book with convincing and proved \nevidence and the reinterpretation of the famous: E = m*c"
-datePublished: '2016-03-09T08:53:07.880Z'
-dateModified: '2016-03-09T08:52:28.206Z'
+datePublished: '2016-03-09T08:56:15.758Z'
+dateModified: '2016-03-09T08:55:14.818Z'
 title: Special article Bigbang
 author: []
 sourcePath: _posts/2016-03-09-undefined.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: undefined/index.html
-_type: Article
+_type: WebPage
 
 ---
 Introduction of
