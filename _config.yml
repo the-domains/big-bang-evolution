@@ -1,29 +1,41 @@
-name: Big Bang Evolution
-favicon: null
-layout_spectrum: 0.50872
-typography_spectrum: 0.58328
 title: Big Bang Evolution
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 1
+  rhythmicContrast: 0.75
+  brandColors:
+    - '#ffffff'
+    - '#0d1114'
+    - '#ad432d'
+    - '#747474'
+    - '#a7a7a7'
+  lightness: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-41248496-2
   facebook: null
-  twitter: null
+name: Big Bang Evolution
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#0d1114'
-    - '#b0462c'
-    - '#676767'
-    - '#b0b0b0'
-  brandStrength: 1
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.29168
+layout_spectrum: 0.5699831
