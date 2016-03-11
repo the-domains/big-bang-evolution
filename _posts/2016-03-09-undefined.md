@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "The big bang is the most important idea in cosmology now a days. According to experts, nothing is known about\_ the pre-big bang period.\n There were no natural laws and nothing like time, light, and space had \nyet emerged in the original singularity. A fraction after the big bang, \nphysical agents came into being, as well as the factors of time, light \nand space in a gigantic hot energy sea. Temperatures quickly began to \ndrop. The energy sea was then able to ‘freeze’ or condense to form \nmatter. The above-mentioned natural laws were already existent in the original singularity, albeit unable to manifest themselves without time, light, and space."
-datePublished: '2016-03-09T10:13:06.187Z'
-dateModified: '2016-03-09T09:57:19.765Z'
+datePublished: '2016-03-11T22:06:11.495Z'
+dateModified: '2016-03-09T10:13:14.251Z'
 title: Special article Bigbang
 author: []
 sourcePath: _posts/2016-03-09-undefined.md
