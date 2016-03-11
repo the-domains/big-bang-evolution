@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: The world according to the Spirit
-datePublished: '2016-03-09T09:32:49.925Z'
-dateModified: '2016-03-09T09:32:40.300Z'
+datePublished: '2016-03-11T22:06:33.022Z'
+dateModified: '2016-03-09T09:32:58.427Z'
 title: Preface new book; The world according to the spirit
 author: []
+sourcePath: _posts/2016-03-09-preface-new-book-the-world-according-to-the-spirit.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-preface-new-book-the-world-according-to-the-spirit.md
-published: true
 url: preface-new-book-the-world-according-to-the-spirit/index.html
 _type: Article
 
