@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "The world according to the Spirit\_ aims\n to unite the spirit with the material and physical world of science and\n cosmology. The central theme lies in the trinity of matter – spirit – \nantimatter being the original start of the universe. Questions asked \nthis website are answered in the book. This concerns questions like:"
-datePublished: '2016-03-22T09:03:21.568Z'
-dateModified: '2016-03-22T09:02:44.304Z'
+datePublished: '2016-03-22T09:04:13.348Z'
+dateModified: '2016-03-22T09:04:00.253Z'
 title: Preface new book; The world according to the spirit
 author: []
 sourcePath: _posts/2016-03-09-preface-new-book-the-world-according-to-the-spirit.md
