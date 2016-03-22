@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: The world according to the Spirit
-datePublished: '2016-03-11T22:06:33.022Z'
-dateModified: '2016-03-09T09:32:58.427Z'
+description: "The world according to the Spirit\_ aims\n to unite the spirit with the material and physical world of science and\n cosmology. The central theme lies in the trinity of matter – spirit – \nantimatter being the original start of the universe. Questions asked \nthis website are answered in the book. This concerns questions like:"
+datePublished: '2016-03-22T09:03:21.568Z'
+dateModified: '2016-03-22T09:02:44.304Z'
 title: Preface new book; The world according to the spirit
 author: []
 sourcePath: _posts/2016-03-09-preface-new-book-the-world-according-to-the-spirit.md
@@ -24,13 +24,11 @@ _type: Article
 ---
 ## An introduction about a total new way of thinking and doing.
 
-**The world according to the Spirit**
-
-aims
+**The world according to the Spirit** aims
 to unite the spirit with the material and physical world of science and
 cosmology. The central theme lies in the trinity of matter -- spirit -- 
 antimatter being the original start of the universe. Questions asked 
-this website are answered in the book. 
+this website are answered in the book. **This concerns questions like:**
 
 How are the different cosmic constants related?
 
@@ -46,18 +44,12 @@ Curious about the relation between spirit and matter?
 
 Searching for the meaning of life?
 
-This book contains 
-
-on
+This book contains **essays and analyses** on
 politics, religion, science, physics, medicine, quantum mechanics, 
 philosophy, meta physics, aesthetics, evolution, the meaning of life and
-much more (
+much more (**38 chapters with complete evidence and proven empirical research**).
 
-).
-
-**The world according to the spirit**
-
-offers
+**The world according to the spirit  **offers
 new and original answers to various aspects of life and thought. It 
 aims to renew human thought and behavior and to offer solutions to the 
 significant problems faced by humanity and the environment on earth.
@@ -80,9 +72,7 @@ and the four main powers of gravity, weak and strong nuclear energy and
 electromagnetic force came into being within a fraction of a second in a
 physical constellation which had to be perfect from the word go. If it 
 had not been, the unbalanced mix of cosmic constants would have 
-condemned the big bang to a certain collapse. 
-
-This
+condemned the big bang to a certain collapse. This
 assumption of a perfectly balanced mix of cosmic constants comes from 
 the idea of a perfectly wise creator who had been dealt a lucky hand of 
 the proper ingredients. Strangest of all is the fact that matter and 
@@ -126,7 +116,7 @@ the spirit.
 
 This book could cause quite a stir in the world. It is a good time for humanity to seek new ways. **The world according to the spirit** offers tools to improve human theories and behaviour in lots of different areas.
 
-The Spirit and Human Consciousness          chapter 27
+**The Spirit and Human Consciousness ** chapter 27
 
 The Spirit is everywhere around the 
 world and universe.That's why matter has the possibility to organize 
@@ -134,7 +124,7 @@ it's self and his environment.That's why the human consciousness is able
 to understand and to communicate whit the world around and to built up a
 huge and impressive memory.
 
-The Spirit and Human Thinking, Creativity and Free Will   chapter 28
+**The Spirit and Human Thinking, Creativity and Free Will** chapter 28
 
 The world around us has a spiritual as 
 well as a material dimension. They overlap where the memory cocoon of 
@@ -147,23 +137,15 @@ has a different character and temperament to deal with opportunity's and
 threats of live.These elements have a background in the collective sub 
 conscious.
 
-Relation -- Antimatter -- Wave -- Time    chapter 33
+**Relation -- Antimatter -- Wave -- Time** chapter 33
 
-Antimatter was largely destroyed by the big bang. A memory of the super symmetry (3 \* 1/3) is what remained within the c
+Antimatter was largely destroyed by the big bang. A memory of the super symmetry (3 \* 1/3) is what remained within the c2  (2 \* 1/3), namely the spirit/light factor -- an all-encompassing cocoon of virtual memory and identity
 
-(2 \* 1/3), namely the spirit/light factor -- an all-encompassing cocoon of virtual memory and identity
+The antimatter that remained contains anti gravity, opposed to the gravity we are familiar with. This ensures that the universe **does not collapse from gravity's** force, but expands by the repelling force of anti gravity (half of 2/3 and c2).
 
-The antimatter that remained contains anti gravity, opposed to the gravity we are familiar with. This ensures that the universe 
-
-force, but expands by the repelling force of anti gravity (half of 2/3 and c
-
-).
-
-Anti gravity controls time in
-
-,
+Anti gravity controls time in **a forward direction**,
 as we know it: time is future-oriented. The laws of entropy, however, 
 predict increasing chaos and disorder as time passes. If there were no 
 counter force, the big bang and fracture of symmetry would have caused 
-the original singularity to dissolve into chaos and disorder.Both 
-antimatter and time are highly intriguing subjects.
+the original singularity to dissolve into chaos and disorder. Both 
+antimatter and time are highly intriguing subjects. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89841c33-9f87-413f-9581-79d09b6add62.png)
