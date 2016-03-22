@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: An introduction about a total new way of thinking and doing.
-datePublished: '2016-03-22T09:11:14.574Z'
-dateModified: '2016-03-22T09:11:10.964Z'
+datePublished: '2016-03-22T09:18:59.934Z'
+dateModified: '2016-03-22T09:18:41.446Z'
 title: Preface new book; The world according to the spirit
 author: []
 sourcePath: _posts/2016-03-09-preface-new-book-the-world-according-to-the-spirit.md
