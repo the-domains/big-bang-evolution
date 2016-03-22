@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "There are countries where you have to \ndeal very careful about these issues.These issues delivers sharp \ndiscussions with different religious groups.Evolution by the Spirit is \nbased on a universal spiritual starting point of view. The trinity matter – spirit – anti matter, in which the Spirit manifest as a cocoon of all the matter and so delivers structure, memory and developing skills\_ for the future and further evolution. These ideas are totally different ideas than the ideas of Darwin (natural selection /survival of the fittest) + intelligent design + creation by Great creator (God). Interested? See Chapter 23: Spirit and heredity and Chapter 24: Spirit and evolution in the book The world according to the Spirit."
-datePublished: '2016-03-22T08:55:57.570Z'
-dateModified: '2016-03-22T08:55:40.875Z'
+datePublished: '2016-03-22T09:10:36.246Z'
+dateModified: '2016-03-22T09:10:31.632Z'
 title: 'Evolution by selection, intelligent design and creation are delicate subjects.'
 author: []
 sourcePath: _posts/2016-03-09-evolution-by-selection-intelligent-design-and-creation-are.md
@@ -22,6 +22,8 @@ url: evolution-by-selection-intelligent-design-and-creation-are/index.html
 _type: Article
 
 ---
+Special article evolution
+
 # Evolution by selection, intelligent design and creation are delicate subjects.
 
 There are countries where you have to 
