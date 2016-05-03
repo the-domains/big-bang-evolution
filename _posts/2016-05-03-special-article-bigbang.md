@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T12:29:43.007Z'
-dateModified: '2016-05-03T12:29:40.737Z'
+datePublished: '2016-05-03T12:30:52.089Z'
+dateModified: '2016-05-03T12:30:39.133Z'
 title: SPECIAL ARTICLE BIGBANG
 author: []
 authors: []
@@ -28,7 +28,7 @@ _type: Article
 
 Introduction of the most important chapters of the book with convincing and proved evidence and the reinterpretation of the famous: E = m\*c2
 
-The big bang is the most important idea in cosmology now a days. According to experts, nothing is known about **the pre-big bang period**
+The big bang is the most important idea in cosmology now a days. According to experts, nothing is known about **[the pre-big bang period][0]**
 
 . There were no natural laws and nothing like time, light, and space had yet emerged in the original singularity. A fraction after the big bang, physical agents came into being, as well as the factors of time, light and space in a gigantic hot energy sea. Temperatures quickly began to drop. The energy sea was then able to 'freeze' or condense to form matter. The above-mentioned natural laws were **already existent**
 
@@ -42,15 +42,15 @@ based and based on empirically evidence by _**cosmological measurements**_
 
 about volume of dark matter and dark energy in addition to levels of hydrogen and helium. Interested? Read [
 
-Chapter 35: Fundamental numerical proportions before, during, and after the Big Bang][0]
+Chapter 35: Fundamental numerical proportions before, during, and after the Big Bang][1]
 
 and [
 
-Chapter 36: Correlation between physical agents -- energy -- mass -- spirit of my book][1]
+Chapter 36: Correlation between physical agents -- energy -- mass -- spirit of my book][2]
 
 of my book [
 
-The world according to the Spirit][2]**.**
+The world according to the Spirit][3]**.**
 
 **Original article with part of the complete evidence and distraction. **
 
@@ -144,7 +144,7 @@ The numerical proportions found in super symmetry and E = MC2
 
 part etc.) and a light speed of C2 equals approximately 3\. It is not surprising, therefore, that organic conscious life forms have developed here on our planet with its 24-hour days.The numeric's of our time on Earth (1/61/121/24) also pertain to the standard model of matter, with 6 types of quarks and 6 types of leptons.
 
-This is no coincidence but arises from the numerical proportions found in cosmic symmetry and E = MC2**(see diagram).[A noticeable synchronicity.][3]**
+This is no coincidence but arises from the numerical proportions found in cosmic symmetry and E = MC2**(see diagram).[A noticeable synchronicity.][4]**
 
 **Part of the total evidence and distraction**
 
@@ -262,7 +262,8 @@ In this case, too, the numerical mass proportions equal 99-1%. A mirror symmetry
 
 
 
-[0]: http://bigbangevolution.com/book/chapter-35
-[1]: http://bigbangevolution.com/book/chapter-36
-[2]: http://bigbangevolution.com/the-world-according-to-the-spirit
-[3]: http://searchingforanswersaboutbigbang.com/cern/ "CERN; The world at large and small are curious  related with each other"
+[0]: null
+[1]: http://bigbangevolution.com/book/chapter-35
+[2]: http://bigbangevolution.com/book/chapter-36
+[3]: http://bigbangevolution.com/the-world-according-to-the-spirit
+[4]: http://searchingforanswersaboutbigbang.com/cern/ "CERN; The world at large and small are curious  related with each other"
